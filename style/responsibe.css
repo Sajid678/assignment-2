@@ -40,4 +40,37 @@
             .fa-solid{
                 font-size: 20px;
             }
+            .second-banner-container{
+                flex-direction: column;
+            }
+            .second-banner-img ,.second-banner-desc {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+            .second-banner-desc h3{
+                font-size: 30px;
+            }
+            .second-banner-desc p
+            {
+                font-size: 15px;
+            }
+            .input.right{
+                flex-direction: column;
+            }
+            .second-banner-desc .point{
+               
+                font-size: 15px;
+            }
+            .video{
+                flex-direction: column;
+            }
+            .image{
+               margin-top: 20px;
+            }
+            .No-Downloads{
+                width: 100%;
+                flex-direction: column;
+               gap: 10px;
+            }
+          
 }
